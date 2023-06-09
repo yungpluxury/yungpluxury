@@ -8,6 +8,14 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Full-stack developer from Russia 🇷🇺</h3>
 
+## About me:
+
+- :telescope: I’m working as a Full-stack developer and contributing to frontend and backend for building web applications.
+
+- :zap: In my free time, I learn new languages and read technical articles.
+
+- :goggles: I am also fond of machine learning and try my hand at creating tools for data analysis.
+
 ### :hammer_and_wrench: Languages and Tools:
 
 <div>
