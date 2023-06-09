@@ -6,5 +6,3 @@
 <h3 align="center">Full-stack developer from Russia 🇷🇺</h3>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=yungpluxury&theme=dark&hide_border=true&mode=weekly&card_width=846)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yungpluxury)](https://github.com/anuraghazra/github-readme-stats)
