@@ -2,4 +2,4 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Full-stack developer from Russia 🇷🇺</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yungpluxury)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=yungpluxury&theme=dark&hide_border=true&mode=weekly&card_width=846)](https://git.io/streak-stats)
