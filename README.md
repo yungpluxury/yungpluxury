@@ -1,5 +1,7 @@
-<div id="header" align="center">
+<div id="header-1" align="center">
   <img src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif" width="100"/>
+</div>
+<div id="header-2" align="center">
   <img src="https://komarev.com/ghpvc/?username=yungpluxury&style=flat-square&color=blue" alt=""/>
 </div>
 <h1 align="center">Hi there, I'm <a href="https://t.me/callmeyungpluxury" target="_blank">Max</a> 
